@@ -1,6 +1,7 @@
-### So you are lost?
+### My github is almost ready for visitors!
 
-## Well, me too...
+I swear I am ready in 5 minutes!
+While you wait – why don't you play a [game](https://cathacz.github.io/letsPlayAGame/)?
 
 <!--
 **cathacz/cathacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
